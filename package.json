@@ -1,0 +1,22 @@
+{
+  "name": "paisapal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "paisapal.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^1.2.18",
+    "@langchain/groq": "^1.3.1",
+    "@langchain/langgraph": "^1.5.0",
+    "@langchain/openai": "^1.6.2",
+    "dotenv": "^18.0.8",
+    "langchain": "^1.5.18",
+    "zod": "^4.6.7"
+  }
+}
