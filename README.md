@@ -3,7 +3,7 @@
 **Team:** T3  
 **Hackathon:** INCRED Applications Pvt. Ltd. AI Agent Hackathon  
 **Project:** Personal Expense & Budget Coach  
-**Technology:** JavaScript, Node.js, LangChain, Groq LLM, SQLite, Zod
+**Technology:** JavaScript, Node.js, LangChain, Groq LLM, SQLite
 
 ## 1. Project Overview
 
